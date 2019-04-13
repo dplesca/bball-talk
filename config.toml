@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://bball.dplesca.xyz/"
 languageCode = "en-us"
 title = "bball words"
 theme = "lanyon-hugo"
