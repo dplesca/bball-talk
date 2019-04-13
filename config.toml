@@ -1,0 +1,11 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "bball words"
+theme = "lanyon-hugo"
+"canonifyurls" =  true
+[permalinks]
+  posts = "post/:year/:month/:title/"
+
+[params]
+  title = "bball words"
+  tagline = "🏀"
