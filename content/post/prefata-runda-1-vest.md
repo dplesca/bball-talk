@@ -6,7 +6,7 @@ tags =  ["2019", "warriors", "nuggets", "trail blazers", "rockets", "spurs", "th
 
 Conferinta de Vest este vazuta de multi ca fiind conferinta mai puternica din NBA. Doar daca te uiti la parcursul din sezonul regulat al echipelor din Vest, ultima calificata Clippers are un parcurs de 48 de victorii si 34 de infrangeri. Daca ar fi fost in conferinta de Est, Clippers ar fi fost pe locul 5, nu pe 8. Anul asta supriza negativa a fost data de Lakers, echipa care desi l-a adaugat pe LeBron James in intersezon nu a reusit sa ajunga in playoff. Este prima oara in 14 ani cand o echipa care il are pe LeBron in echipa nu ajunge in playoff. 
 
-Desi Lakers nu au facut-o, alte 8 echipe s-au calificat si vor juca incepand din seara asta pentru calificarea in turul urmator. Mai jos sunt predictiile mele pentru aceasta runda 1 din playoff in conferinta de Est.
+Desi Lakers nu au facut-o, alte 8 echipe s-au calificat si vor juca incepand din seara asta pentru calificarea in turul urmator. Mai jos sunt predictiile mele pentru aceasta runda 1 din playoff in conferinta de Vest.
 
 <!--more-->
 
