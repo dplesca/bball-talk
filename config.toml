@@ -1,4 +1,4 @@
-baseURL = "http://bball.dplesca.xyz/"
+baseURL = "https://bball.dplesca.xyz/"
 languageCode = "en-us"
 title = "bball words"
 theme = "lanyon-hugo"
