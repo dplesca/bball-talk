@@ -6,9 +6,14 @@
 <div class="posts">
   {{ range .Paginator.Pages }}
     <div class="post">
+        {{ if isset .Params "external" }}
+        <h2 class="post-title"><a href="{{ .Params.external_url }}" target="_blank">{{ .Title }}</a> <small>({{.Params.site}})</small></h2>
+        <span class="post-date">{{ .Site.Params.DateForm | default "Jan 2, 2006" | .Date.Format }}</span>
+        {{ else }}
         <h1 class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
         <span class="post-date">{{ .Site.Params.DateForm | default "Jan 2, 2006" | .Date.Format }}</span>
         {{ .Summary }}
+        {{ end }}
     </div>
   {{ end }}
 </div>
